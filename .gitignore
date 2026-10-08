@@ -1,0 +1,8 @@
+# Raw screen recording (82 MB) - the edited demo-video-portfolio.mp4 is committed instead
+demo-video.mp4
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
