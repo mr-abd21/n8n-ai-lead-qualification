@@ -218,4 +218,4 @@ Expected result: a new `hot` row in `leads`, a Gmail draft addressed to the lead
 
 ### Need something similar?
 
-I build AI-powered automations with n8n, LLMs and your existing tools. Reach out on Upwork.
+I build AI-powered automations with n8n, LLMs and your existing tools. Reach out to me.
